@@ -1,6 +1,10 @@
 # MIPS-Calulcator
 A simple calculator written in MIPS Assembly for college course.
 
+## Technologies
+
+MIPS Assembly
+
 ## Running
 
 Use a MIPS Simulator like QtSpim to run .s file. User interface runs in the console of the simulator. 
